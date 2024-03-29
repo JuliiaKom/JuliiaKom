@@ -30,12 +30,11 @@
   </a>
 </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+I'm a Full-Stack developer who likes to work with HTML5/HTML Advanced, CSS, JavaScript/Typescript, React. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliiaKom=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
   <br />
 </div>
