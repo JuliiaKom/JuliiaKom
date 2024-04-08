@@ -7,6 +7,9 @@ I'm a Front-end developer who likes to work with HTML5/HTML Advanced, CSS, JavaS
   <br />
   <br />
   <br />
+  I look forward to collaborating on projects.
+😉
+In addition to technology, 📖 I like reading, I like active sports, fitness 🎵 listening to music 🌴traveling and organizing something creative.
 </div>
 
 <!--
